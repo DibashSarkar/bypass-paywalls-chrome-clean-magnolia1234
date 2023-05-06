@@ -826,6 +826,7 @@ Grouped in options:\
 [The Star Malaysia](https://www.thestar.com.my)
 
 ##### India
+[AFPR NEWS](https://afpr.co.in) -
 [BQ Prime](https://www.bqprime.com) -
 [Hindustan Times](https://www.hindustantimes.com) -
 [Inc42](https://inc42.com) -
@@ -842,6 +843,7 @@ Grouped in options:\
 [The Indian Express](https://indianexpress.com) -
 [The Quint](https://www.thequint.com) -
 [Times of India](https://timesofindia.indiatimes.com)
+[Times Now Express](https://www.timesnowexpress.com) -
 
 ##### Israel
 [Globes](https://www.globes.co.il) -
